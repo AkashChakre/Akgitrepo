@@ -1,1 +1,6 @@
 hi this is testnode file..
+
+5:date --- display date.
+6:echo --- echo argument.
+7:ftp --- connect to a remote machine to download or upload files.
+8:grep --- search file.
