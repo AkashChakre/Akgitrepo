@@ -1,6 +1,0 @@
-• Good understanding and Experience on AWS CloudWatch for ES2, Amazon Web Services, and Resources, and other sources.
-• Collect and Store logs
-• Monitor and Store Logs
-• Log Analyze
-• Configure Alarm
-• Configure Dashboard
