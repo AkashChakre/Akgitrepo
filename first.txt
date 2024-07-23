@@ -1,9 +1,0 @@
-hi...this is Ak..how are you??
-thankyou
-
-hi...adding something again
-
-1:cat --- for creating and displaying short files.
-2:chmod --- change permissions.
-3:cd --- change directory.
-44:cp --- for copying files.
